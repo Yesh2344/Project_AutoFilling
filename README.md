@@ -30,3 +30,25 @@ A lightweight Chrome extension that automatically detects and fills web forms wi
 3. **Verify**:
    * You should see "Smart Autofill" listed among your extensions.
 
+## Usage
+
+1. **Set Up Your Data**:
+   * Click the extension icon in your Chrome toolbar to open the popup.
+   * Enter your details (name, email, phone, address) in the form.
+   * Click **Save Data**. Your info is now stored securely.
+
+2. **Autofill Forms**:
+   * Visit any webpage with a form (e.g., a signup page).
+   * The extension will automatically detect and fill matching fields.
+   * If a field doesn't fill correctly, check its name or id attributes (see "How It Works" below).
+
+3. **Test Sites**:
+   * Try it on simple forms like contact pages or more complex ones like job applications.
+
+## How It Works
+
+* **Popup**: Built with HTML/CSS/JavaScript, it lets you input and save data using Chrome's storage.sync API.
+* **Content Script**: Runs on every page, scans for `<input>` and `<textarea>` elements, and fills them based on field names/IDs.
+* **Matching Logic**: Uses simple keyword checks (e.g., "email" or "phone" in the field's name or id). Case-insensitive.
+* **Dynamic Forms**: A MutationObserver watches for new fields added after page load.
+
