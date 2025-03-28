@@ -10,3 +10,10 @@ A lightweight Chrome extension that automatically detects and fills web forms wi
 * **Dynamic Support**: Handles dynamically loaded forms (e.g., single-page apps) with a MutationObserver.
 * **Simple Matching**: Fills fields based on common naming conventions (e.g., "email", "name").
 
+## Installation
+
+### Prerequisites
+
+* Google Chrome browser (or a Chromium-based browser).
+* Basic familiarity with Chrome extensions (no advanced coding required to install).
+
