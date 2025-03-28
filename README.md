@@ -17,3 +17,16 @@ A lightweight Chrome extension that automatically detects and fills web forms wi
 * Google Chrome browser (or a Chromium-based browser).
 * Basic familiarity with Chrome extensions (no advanced coding required to install).
 
+### Steps
+
+1. **Clone or Download**:
+   * Clone this repository: `git clone <repository-url>` or download the ZIP file and extract it.
+
+2. **Load the Extension**:
+   * Open Chrome and navigate to `chrome://extensions/`.
+   * Enable **Developer mode** (toggle in the top-right corner).
+   * Click **Load unpacked** and select the autofill-extension folder.
+
+3. **Verify**:
+   * You should see "Smart Autofill" listed among your extensions.
+
