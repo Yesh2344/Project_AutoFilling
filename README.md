@@ -70,27 +70,3 @@ autofill-extension/
 * **No Validation**: Doesn't check if the data fits (e.g., phone format).
 * **Icons Missing**: You'll need to add `icon16.png`, `icon48.png`, and `icon128.png` to the folder for a polished look.
 
-## Future Enhancements
-
-* **Smarter Matching**: Add a synonym dictionary or lightweight NLP for better field recognition.
-* **Toggle Switch**: Include an on/off button in the popup.
-* **More Fields**: Expand to support city, zip code, etc.
-* **Field Validation**: Ensure data matches expected formats (e.g., email regex).
-
-## Contributing
-
-Feel free to fork this project, submit pull requests, or report issues! Suggestions for improving the matching logic or UI are welcome.
-
-## Troubleshooting
-
-* **Form Not Filling**: Check the field's name or id in the page's HTML (right-click > Inspect). Update `content.js` if needed.
-* **Data Not Saving**: Ensure Chrome's sync is enabled and you have storage permissions.
-* **Errors**: Open Chrome's console (Ctrl+Shift+J) on a webpage or popup to debug.
-
-## License
-
-This project is open-source. Use it, modify it, share it—enjoy!
-
-## Credits
-
-Built with ❤️ by [Your Name] with help from Grok (xAI).
