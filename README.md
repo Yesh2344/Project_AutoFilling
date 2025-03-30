@@ -70,3 +70,10 @@ autofill-extension/
 * **No Validation**: Doesn't check if the data fits (e.g., phone format).
 * **Icons Missing**: You'll need to add `icon16.png`, `icon48.png`, and `icon128.png` to the folder for a polished look.
 
+## Future Enhancements
+
+* **Smarter Matching**: Add a synonym dictionary or lightweight NLP for better field recognition.
+* **Toggle Switch**: Include an on/off button in the popup.
+* **More Fields**: Expand to support city, zip code, etc.
+* **Field Validation**: Ensure data matches expected formats (e.g., email regex).
+
