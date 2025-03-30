@@ -77,3 +77,20 @@ autofill-extension/
 * **More Fields**: Expand to support city, zip code, etc.
 * **Field Validation**: Ensure data matches expected formats (e.g., email regex).
 
+## Contributing
+
+Feel free to fork this project, submit pull requests, or report issues! Suggestions for improving the matching logic or UI are welcome.
+
+## Troubleshooting
+
+* **Form Not Filling**: Check the field's name or id in the page's HTML (right-click > Inspect). Update `content.js` if needed.
+* **Data Not Saving**: Ensure Chrome's sync is enabled and you have storage permissions.
+* **Errors**: Open Chrome's console (Ctrl+Shift+J) on a webpage or popup to debug.
+
+## License
+
+This project is open-source. Use it, modify it, share it—enjoy!
+
+## Credits
+
+Built with ❤️ by [Your Name] with help from Grok (xAI).
