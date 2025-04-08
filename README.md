@@ -93,4 +93,4 @@ This project is open-source. Use it, modify it, share it—enjoy!
 
 ## Credits
 
-Built with ❤️ by [Your Name] with help from Grok (xAI).
+Built with ❤️ by Yeswanth Soma.
