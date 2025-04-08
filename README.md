@@ -94,3 +94,6 @@ This project is open-source. Use it, modify it, share it—enjoy!
 ## Credits
 
 Built with ❤️ by Yeswanth Soma.
+
+## Contact
+
