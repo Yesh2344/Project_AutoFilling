@@ -32,10 +32,7 @@ A lightweight Chrome extension that automatically detects and fills web forms wi
 
 ## Usage
 
-1. **Set Up Your Data**:
-   * Click the extension icon in your Chrome toolbar to open the popup.
-   * Enter your details (name, email, phone, address) in the form.
-   * Click **Save Data**. Your info is now stored securely.
+
 
 2. **Autofill Forms**:
    * Visit any webpage with a form (e.g., a signup page).
