@@ -99,5 +99,4 @@ Built with ❤️ by Yeswanth Soma.
 
 Email:yeswanthsoma83@gmail.com
 
-@YeswanthSoma
 All Copyrights Reserved
